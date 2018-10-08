@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="JDBC_MySQL" systemlibrary="false">
+        <archive path="C:/Users/Oleksandr Romaniuk/Downloads/mysql-connector-java-8.0.12/lib/c3p0-0.9.1-pre6.jar"/>
+        <archive path="C:/Users/Oleksandr Romaniuk/Downloads/mysql-connector-java-8.0.12/lib/c3p0-0.9.1-pre6.src.zip"/>
+        <archive path="C:/Users/Oleksandr Romaniuk/Downloads/mysql-connector-java-8.0.12/lib/jboss-common-jdbc-wrapper.jar"/>
+        <archive path="C:/Users/Oleksandr Romaniuk/Downloads/mysql-connector-java-8.0.12/lib/jboss-common-jdbc-wrapper-src.jar"/>
+        <archive path="C:/Users/Oleksandr Romaniuk/Downloads/mysql-connector-java-8.0.12/lib/protobuf-java-2.6.0.jar"/>
+        <archive path="C:/Users/Oleksandr Romaniuk/Downloads/mysql-connector-java-8.0.12/lib/slf4j-api-1.6.1.jar"/>
+        <archive path="C:/Users/Oleksandr Romaniuk/Downloads/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12.jar"/>
+    </library>
+</eclipse-userlibraries>

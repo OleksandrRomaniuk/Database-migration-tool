@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Connections>
+    <Connection ConnectionName="defaultconnectionmysql">
+        <url url="url">
+            jdbc:mysql://localhost:3306/defaultconnectionmysql?allowPublicKeyRetrieval=true&amp;useSSL=false
+        </url>
+        <driver DatabaseType="mysql">com.mysql.cj.jdbc.Driver</driver>
+        <password password="password">Ilovemylife101088</password>
+        <username username="username">root</username>
+    </Connection>
+    <Connection ConnectionName="defaultconnectionpostgresql">
+        <url url="url">jdbc:postgresql://localhost:5432/defaultconnectionpostgresql?allowPublicKeyRetrieval=true&amp;useSSL=false</url>
+        <driver DatabaseType="postgresql">org.postgresql.Driver</driver>
+        <password password="password">Ilovemylife101088</password>
+        <username username="username">postgres</username>
+    </Connection>
+    <Connection ConnectionName="world">
+        <url url="url">jdbc:mysql://localhost:3306/world?allowPublicKeyRetrieval=true&amp;useSSL=false</url>
+        <driver DatabaseType="mysql">com.mysql.cj.jdbc.Driver</driver>
+        <password password="password">Ilovemylife101088</password>
+        <username username="username">root</username>
+    </Connection>
+    <Connection ConnectionName="sakila">
+        <url url="url">jdbc:mysql://localhost:3306/sakila?allowPublicKeyRetrieval=true&amp;useSSL=false</url>
+        <driver DatabaseType="mysql">com.mysql.cj.jdbc.Driver</driver>
+        <password password="password">Ilovemylife101088</password>
+        <username username="username">root</username>
+    </Connection>
+    <Connection ConnectionName="alex">
+        <url url="url">jdbc:postgresql://localhost:5432/alex?allowPublicKeyRetrieval=true&amp;useSSL=false</url>
+        <driver DatabaseType="postgresql">org.postgresql.Driver</driver>
+        <password password="password">Ilovemylife101088</password>
+        <username username="username">postgres</username>
+    </Connection>
+</Connections>
